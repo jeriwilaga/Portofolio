@@ -10,6 +10,10 @@
   scroll-padding-top: 2rem;
   font-family: "Poppins", sans-serif;
 }
+.list-group-item{
+  color: #000;
+  padding: 10px;
+}
 :root {
   --main-color: #033a80;
   --bg-color: #fff;
